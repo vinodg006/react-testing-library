@@ -1,7 +1,5 @@
 # Color Button
 
-This project accompanies the Udemy course [Testing React with Jest and Testing Library](https://www.udemy.com/course/react-testing-library/).
-
 ## Mock-Ups
 
 ### 1. Red Button
